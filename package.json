@@ -14,8 +14,14 @@
   "dependencies": {
     "axios": "^0.21.1",
     "jest-changed-files": "^26.6.2",
+    "jest-diff": "^26.6.2",
+    "jest-docblock": "^26.0.0",
+    "jest-get-type": "^26.3.0",
+    "jest-validate": "^26.6.2",
+    "jest-worker": "^26.6.2",
     "mongoose": "^5.12.3",
     "node-fetch": "^2.6.1",
+    "pretty-format": "^26.6.2",
     "q": "^1.5.1"
   }
 }
