@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should be match the cases 1`] = `
+[MockFunction a mock name] {
+  "calls": Array [
+    Array [
+      null,
+      5,
+    ],
+    Array [
+      null,
+      7,
+      9,
+    ],
+  ],
+  "results": Array [
+    Object {
+      "type": "return",
+      "value": true,
+    },
+    Object {
+      "type": "return",
+      "value": false,
+    },
+  ],
+}
+`;
